@@ -13,7 +13,7 @@ I am an MS ECE student in the robotics track at the [University of Michigan](htt
 
 ## News
 
-- **[Mar. 2025]** Our benchmark paper RoboMME is announced!
+- **[Mar. 2025]** Our benchmark RoboMME is announced!
 
 {% include_relative _includes/publications.md %}
 
