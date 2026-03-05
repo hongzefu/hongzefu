@@ -1,8 +1,8 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Hongze Fu
+position: MS ECE Robotics Student
+affiliation: University of Michigan, Ann Arbor
+email: hongzefu@umich.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -48,6 +48,7 @@ remote_theme: yaoyao-liu/minimal-light
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor/
   - README.md
   - README_zh_Hans.md
   - README_zh_Hant.md

@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an MS ECE student in the robotics track at the [University of Michigan](https://umich.edu/). I am fortunate to be advised by Professor [Nima Fazeli](https://robotics.umich.edu/people/faculty/nima-fazeli/) and Professor [Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
 
-## Research Interests
+<!-- ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2025]** Our benchmark paper RoboMME is announced!
 
 {% include_relative _includes/publications.md %}
 
