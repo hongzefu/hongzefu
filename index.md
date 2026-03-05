@@ -6,10 +6,11 @@ layout: homepage
 
 I am an MS ECE student in the robotics track at the [University of Michigan](https://umich.edu/). I am fortunate to be advised by Professor [Nima Fazeli](https://robotics.umich.edu/people/faculty/nima-fazeli/) and Professor [Joyce Chai](https://web.eecs.umich.edu/~chaijy/).
 
-<!-- ## Research Interests
+## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning -->
+- **Vision-Language-Action models:** long-context, history-aware, multi-modal, reasoning, and planning.
+- **Robotic Learning:** building diverse robot datasets, training large-scale robot policies on this data, and developing approaches for scalably evaluating robot foundation models.
+
 
 ## News
 
