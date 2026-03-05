@@ -5,7 +5,7 @@
 
 {% for link in site.data.publications.main %}
 
-<li>
+<!-- <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
@@ -43,7 +43,7 @@
   </div>
 </div>
 </li>
-<br>
+<br> -->
 
 {% endfor %}
 
