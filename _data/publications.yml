@@ -10,7 +10,7 @@ main:
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: /assets/img/intro-poster.jpg
     video: /assets/img/intro-web.mp4
-    notes: Arxiv Preprint
+    notes: ICML 2026 Spotlight (top 2.2%)
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
